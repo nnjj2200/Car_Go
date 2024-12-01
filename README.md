@@ -1,16 +1,14 @@
 # cargo_app
 
-A new Flutter project.
+Welcome to our Graduation Project!.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Download the Following:
+Cocoa pods, Andriod studio, Xcode, Flutter, and Brew
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run, type in the terminal:
+Flutter pub get
+Then flutter run
